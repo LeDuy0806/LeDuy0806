@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 Self-learning: Web Developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=LeDuy0806 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/username=LeDuy0806&theme=radical)
 
 ## 🧰 Languages and Tools:
 <p>
