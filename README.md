@@ -20,5 +20,5 @@
 <p>
  <a href="https://www.facebook.com/imyady86/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/l%C3%AA-duy-undefined-418484247/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" alt="Likedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:duylangtu931@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732026.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:duylangtu931@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
