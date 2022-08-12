@@ -18,7 +18,7 @@
 
 ## ✉️Connect with me:
 <p>
- <a href="https://www.facebook.com/imyady86/" target="_blank" rel="noopener noreferrer"> <img src="https://cdchuaphucsinh.org/wp-content/uploads/2021/11/facebook-icon.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.facebook.com/imyady86/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/l%C3%AA-duy-undefined-418484247/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:duylangtu931@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
