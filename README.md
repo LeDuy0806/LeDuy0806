@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning at University of Information Technology, Vietnam National University - Ho Chi Minh City
 - 💞️ Software Engineer
 - 👯 I’m looking to collaborate with other content creators
-- 📫 Self-learning: Web Developer
+- 📫 Self-learning: Web Developer, Mobile Developer, Backend Developer
 
 
 ## 🧰 Languages and Tools:
