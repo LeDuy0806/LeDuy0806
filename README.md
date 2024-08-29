@@ -1,34 +1,71 @@
-- 👋 Hi, I’m Duy
-- 🌱 I’m currently learning at University of Information Technology, Vietnam National University - Ho Chi Minh City
-- 💞️ Software Engineer
-- 👯 I’m looking to collaborate with other content creators
-- 📫 Self-learning: Web Developer, Mobile Developer, Backend Developer
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Van+Duy....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
+![](https://komarev.com/ghpvc/?username=LeDuy0806&color=brightgreen)
 
-## 🧰 Languages and Tools:
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2024 Goals: Learn Cloud on AWS and Azure, improve Technical skills
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+
+---
+
+### Connect With Me:
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imyady86/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mixiyady86/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_imyady_/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mixiyady86)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvduy.dev@gmail.com)
+
+---
+
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
+![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AntDesign](https://img.shields.io/badge/AntDesign-f7f7f7?style=flastic&logo=AntDesign&logoColor=0170FE)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
+![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VSCode-209be3?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
+
+---
+
+### My Github Stats:
+
 <p>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
-<a href='https://reactjs.org/' target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" href='https://reactjs.org/' alt="React" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://sass-lang.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeDuy0806&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeDuy0806&theme=algolia" alt="LeDuy0806" />
 </p>
 
+---
 
-## ✉️Connect with me:
-<p>
- <a href="https://www.facebook.com/imyady86/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.linkedin.com/in/l%C3%AA-duy-undefined-418484247/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" alt="Likedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:duylangtu931@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+### Top Usage Languages:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeDuy0806&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDuy0806&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
+
